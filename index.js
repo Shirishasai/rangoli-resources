@@ -1,0 +1,1 @@
+// sample js to retrive desingns
